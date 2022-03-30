@@ -1,5 +1,5 @@
 rootProject.name = 'picasso-root'
-
+include ':Library'
 include 'picasso'
 include 'picasso-pollexor'
 include 'picasso-sample'
